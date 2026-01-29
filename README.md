@@ -1,7 +1,7 @@
 # 🎬 Système de Recommandation de Films sur GCP
 
 **Projet Cloud Computing - Master AI**  
-**Auteurs :** Mamadi Keita & Skander  
+**Auteurs :** Mamadi Keita & Skander Adam Afi 
 **Date :** Décembre 2025
 
 ---
@@ -350,7 +350,7 @@ movie-recommendation-gcp/
 ## 👥 Contributeurs
 
 - **Mamadi Keita** - Development, ML, Deployment
-- **Skander** - Development, ML, Documentation
+- **Skander Adam Afi** - Development, ML, Documentation
 
 ---
 
