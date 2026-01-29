@@ -368,4 +368,4 @@ Projet académique - Master AI Cloud Computing
 
 ---
 
-** Si vous trouvez ce projet utile, n'hésitez pas à le star sur GitHub !**
+**Si vous trouvez ce projet utile, n'hésitez pas à le star sur GitHub !**
